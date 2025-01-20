@@ -32,3 +32,21 @@ int main() {
 
   return 0;
 }
+
+/*output:
+Enter size: 5
+Addresses of previously allocated memory:
+0000000000791440c
+0000000000791444c
+0000000000791448c
+000000000079144Cc
+0000000000791450c
+
+Enter the new size: 5
+Addresses of newly allocated memory:
+0000000000791440c
+0000000000791444c
+0000000000791448c
+000000000079144Cc
+0000000000791450c*/
+
