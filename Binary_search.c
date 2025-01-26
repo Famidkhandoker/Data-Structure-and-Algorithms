@@ -24,3 +24,5 @@ int main()
     printf("Item not found\n");
     return 0;
 }
+//output
+//Item at Found at index:1
