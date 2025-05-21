@@ -80,3 +80,8 @@ int main() {
     display();
     return 0;
 }
+/*
+Dequeued: 17
+Before Sorting: 7 19 3
+After Sorting: 3 7 19
+*/
