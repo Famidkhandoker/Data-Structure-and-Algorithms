@@ -33,4 +33,12 @@ int main() {
     printMaxActivities(arr, n);
     return 0;
 }
+/*Enter the capacity of the knapsack: 60
+Enter the number of items: 4
+Enter the value and weight of each item:
+100 10
+280 40
+120 20
+130 24
+Maximum value in Knapsack = 440*/
 
