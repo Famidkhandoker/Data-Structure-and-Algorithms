@@ -54,4 +54,10 @@ int main()
     cout<<n<<endl;
     knapsack(arr,n,W);
 }
+/*
+4
+Maximum value in Knapsack =37
+Items included(Weight,value):(2,15)(1,10)(2,12)
+*/
+
 
