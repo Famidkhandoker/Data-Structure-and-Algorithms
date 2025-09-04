@@ -64,4 +64,10 @@ int main()
     rodCutting(rr,n,N);
 
 }
+/*
+8
+Maximum Obtainable Value = 22
+Cut sizes:6 2
+*/
+
 
